@@ -6,7 +6,7 @@
 
 Graphic based OOP calculator.
 
-![Running Calculator] (https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/calc.png?raw=true)
+![Running Calculator](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/calc.png?raw=true)
 
 
 [Source code] (https://github.com/elsabringard/programing1portfolio/tree/gh-pages/src/Calculator)

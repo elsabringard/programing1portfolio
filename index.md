@@ -13,6 +13,8 @@ Graphic based OOP calculator.
 
 ### Space game
 
+Graph
+
 ### Screensaver
 
 ## Programming 2 Semester 2 projects:

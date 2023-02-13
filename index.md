@@ -3,8 +3,18 @@
 ## Programming 1 Semester 1 projects:
 
 ### OOP Calculator
-Graphic based OOP calculator.
-Source code
-Exported App
 
-## Programming 1 Semester 2 projects:
+Graphic based OOP calculator.
+
+![Running Calculator] ()
+
+
+[Source code] ()
+
+### Space game
+
+### Screensaver
+
+## Programming 2 Semester 2 projects:
+
+### Shape tester

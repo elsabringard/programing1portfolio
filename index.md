@@ -6,10 +6,10 @@
 
 Graphic based OOP calculator.
 
-![Running Calculator] ()
+![Running Calculator] (https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/calc.png?raw=true)
 
 
-[Source code] (https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/calc.png?raw=true)
+[Source code] ()
 
 ### Space game
 

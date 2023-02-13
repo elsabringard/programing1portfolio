@@ -13,9 +13,13 @@ Graphic based OOP calculator.
 
 ### Space game
 
-Graph
-
 ### Screensaver
+Graphic based Screensaver
+
+![Running Screensaver](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/calc.png?raw=true)
+
+
+[Source code] (https://github.com/elsabringard/programing1portfolio/tree/gh-pages/src/Calculator)
 
 ## Programming 2 Semester 2 projects:
 

@@ -13,6 +13,13 @@ Graphic based OOP calculator.
 
 ### Space game
 
+Graphic based OOP Space game
+
+![Running Space game] ()
+
+
+[Source code] ()
+
 ### Screensaver
 Graphic based OOP Screensaver
 
@@ -25,3 +32,4 @@ Graphic based OOP Screensaver
 ## Programming 2 Semester 2 projects:
 
 ### Shape tester
+

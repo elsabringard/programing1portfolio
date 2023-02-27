@@ -33,7 +33,7 @@ Graphic based OOP Screensaver
 ### Shape tester 
 shape tester
 
-![Running Space game]
+![Running Shape tester](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/shape.png?raw=true)
 
 
 [Source code]

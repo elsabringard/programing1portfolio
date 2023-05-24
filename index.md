@@ -47,10 +47,11 @@ shape tester
 [Source code](https://github.com/elsabringard/programing1portfolio/tree/gh-pages/src/99%20bottles)
 
 
-## Hangman Aqua No graphics-group Project
+## Hangman Aqua No graphics-Group Project
 ![Running Hangman](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/graphicsno.png?raw=true)
 ![Running Hangman](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/nographicshangman.png?raw=true)
 
 [Source code](https://github.com/elsabringard/programing1portfolio/tree/gh-pages/src/hangman-aqua2)
 
 
+## Hangman Aqua graphics-Group Project

@@ -40,13 +40,15 @@ shape tester
 
 ### 99 Bottles
 99 bottles
-![Running 99 Bottles]
-![Running 99 Bottles]
+
+![Running 99 Bottles](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/startbottles.png?raw=true)
+![Running 99 Bottles](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/endbottles.png?raw=true)
+
+
 
 ## Hangman Aqua No graphics-group Project
 ![Running Hangman](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/graphicsno.png?raw=true)
-![Running Hangman]
-
+![Running Hangman](https://github.com/elsabringard/programing1portfolio/blob/gh-pages/images/nographicshangman.png?raw=true)
 
 [Source code](https://github.com/elsabringard/programing1portfolio/tree/gh-pages/src/hangman-aqua2)
 
